@@ -1,0 +1,190 @@
+{
+  "main": {
+    "id": "c026604a27ca51be",
+    "type": "split",
+    "children": [
+      {
+        "id": "83c0657037d47e86",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f5db7355f2a7e763",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "week1(4.7-4.12)/snn-learning/snn-learning-main.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "snn-learning-main"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9123460efc8afa62",
+    "type": "split",
+    "children": [
+      {
+        "id": "9ce0f371ea6ae57e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "88895328cb6631e7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "6b98d6ccf71e97b9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "2654efee63dde082",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8775807921bed20a",
+    "type": "split",
+    "children": [
+      {
+        "id": "16695f2efb5316ce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1cf75b37f75ba3f6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "week1(4.7-4.12)/snn-learning/snn-learning-main.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "snn-learning-main 的反向链接列表"
+            }
+          },
+          {
+            "id": "ff45317429469c7f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "week1(4.7-4.12)/snn-learning/snn-learning-main.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "snn-learning-main 的出链列表"
+            }
+          },
+          {
+            "id": "3e987b3c93a3b12c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "4ccccd16c8fcb0a2",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "eefccfe9b9b2a607",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "week1(4.7-4.12)/snn-learning/snn-learning-main.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "snn-learning-main 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "88895328cb6631e7",
+  "lastOpenFiles": [
+    "week1(4.7-4.12)/spikformer-2023-ICIR/images"
+  ]
+}
