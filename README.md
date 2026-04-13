@@ -1,2 +1,2 @@
 # weekly-reading-Log
-# brain-inspired computing  # artificial intelligence
+#brain-inspired computing  #artificial intelligence
